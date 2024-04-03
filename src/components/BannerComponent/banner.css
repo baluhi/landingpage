@@ -1,0 +1,30 @@
+.banner-container {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  background: url("../../assets/Banner.svg");
+  width: 1240px;
+  margin-left: 92px;
+  margin-top: 15px;
+  background-position: center;
+height: 500px;
+}
+.banner {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 50px;
+  text-align: center;
+  font-family: inter;
+  /* background: url('../../assets/Banner.svg'); */
+
+
+}
+h1 {
+  color: #e5dddd;
+}
+p {
+  color: #989090;
+}
+
+

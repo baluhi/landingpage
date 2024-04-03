@@ -1,0 +1,32 @@
+
+.icon {
+  color: rgb(154, 143, 143);
+  margin-top: 16px;
+}
+
+.logo {
+    color: #cf2d2d;
+    margin: 15px;
+    font-weight: bold;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+.search {
+  font-weight: bold;
+  font-size: 20px;
+  margin-right: 20px;
+}
+.center {
+    margin-right: 14px;
+}
+.right{
+    margin-left:70px ;
+}
+.navbar {
+    width: 1240px;
+    margin-left: 80px;
+}
+
+
+
+
